@@ -75,6 +75,8 @@ The full **VAPT Network Report** is available for viewing:
 
 📄 **[View Full Report](https://github.com/Diwakarty/VAPT-Network-Report/blob/main/Metasploitable2%20Pentest%20Report%20by%20Diwakar%20Tyagi.pdf)**  
 
+📄 **[View Full Report on Google Drive](https://drive.google.com/file/d/1Dq_1E4lwzNGL4kpoAM7KWAKDJKOk6ZfK/view?usp=sharing)**
+
 ---
 
 💻 **Author:** [Diwakar Tyagi](https://linkedin.com/in/diwakar-t-5263b0275/)  
