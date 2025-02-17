@@ -71,10 +71,9 @@ The **final report** includes:
 ---
 
 ## 📂 Report Repository  
-The full **VAPT Network Report** is available for review.  
+The full **VAPT Network Report** is available for viewing:  
 
-![VAPT Report Preview](./report_preview.png)  
-[📄 View Full Report](https://github.com/user-attachments/files/18827370/Report.pdf)  
+📄 **[View Full Report](https://drive.google.com/file/d/1Dq_1E4lwzNGL4kpoAM7KWAKDJKOk6ZfK/view?usp=sharing)**  
 
 ---
 
